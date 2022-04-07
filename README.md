@@ -1,15 +1,58 @@
-<h1 align="center">Hi 👋, I'm Randolph David</h1>
-<h3 align="center">I am a System Engineer with 2+ years experience in Full Stack Web Development</h3>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdzu&label=Profile%20views&color=0e75b6&style=flat" alt="rdzu" /> </p>
+## 🚀 About Me
 
-- 📫 How to reach me **davidzamorau@gmail.com**
+👨‍💻 My name is Randolph David, I am a Systems Engineer with +2 years specializing in Full-Stack Web development. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/randolph-david-zamora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/randolph-david-zamora/" height="30" width="40" /></a>
-</p>
+🧑‍🎓 I consider myself as a professional who likes to learn about new technology and improve his skills every day. I always aim to use best practices with an emphasis on creating beautiful interfaces that are easy to use.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+🙇 Outside the world of tech too, I like to stay fit, healthy, practice sports, read some book and dancing.
 
+✈️ Last year I moved to Spain looking for a better life and growth opportunities in the world of technology. I recently obtained my work and residence permit in Spain. I am currently looking for a job opportunity here.
+
+## 🛠️ Skills
+
+### Programming Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flag&logo=php&logoColor=white)
+
+
+### Front-End Development
+
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flag&logo=bootstrap&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flag&logo=vue.js&logoColor=4FC08D)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flag&logo=jquery&logoColor=white)
+
+
+### Back-End Development
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flag&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flag&logo=codeIgniter&logoColor=white)
+
+### Database
+
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flag&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flag&logo=mariadb&logoColor=white)
+
+### System Operating
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flag&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flag&logo=windows&logoColor=white)
+
+### IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flag&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flag&logo=sublime-text&logoColor=important)
+
+### Idioms
+![Spanish](https://img.shields.io/badge/Spanish-Native-red)
+![English](https://img.shields.io/badge/English-B2-blue)
+
+
+## 🔗 Links
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/randolph-david-zamora/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:davidzamorau@gmail.com)
