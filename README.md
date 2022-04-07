@@ -57,7 +57,7 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/randolph-david-zamora/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:davidzamorau@gmail.com)
 
-## Blog posts
+
 <!-- BLOG-POST-LIST:START -->
  
 <!-- BLOG-POST-LIST:END -->
