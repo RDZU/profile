@@ -59,5 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
- 
+- [Story of a Failed React Project](https://javascript.plainenglish.io/story-of-a-failed-react-project-f32177479bdf?source=rss-fe04a352a811------2)
+- [Refactor a React Component from 165 Lines to 30 Lines](https://javascript.plainenglish.io/refactor-a-react-component-from-165-lines-to-30-lines-1689b15ebfe0?source=rss-fe04a352a811------2)
+- [How to Add Google Fonts to Your Next.js Website](https://enlear.academy/how-to-add-google-fonts-to-your-next-js-website-e62272a0ff57?source=rss-fe04a352a811------2)
+- [Create Your First AWS CDK App to Understand its Power](https://medium.com/geekculture/create-your-first-aws-cdk-app-to-understand-its-power-ba2f0501cfdc?source=rss-fe04a352a811------2)
+- [Add Google Analytics to a Next.js Application](https://enlear.academy/add-google-analytics-to-a-next-js-application-5525892844db?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
