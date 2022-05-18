@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Ditch Your Boring Terminal and Make it More Useful](https://javascript.plainenglish.io/ditch-your-boring-terminal-and-make-it-more-useful-261493aa8400?source=rss-fe04a352a811------2)
 - [Upload Files to Google Drive from React without OAuth2](https://javascript.plainenglish.io/upload-files-to-google-drive-from-react-without-oauth2-73b1f4add606?source=rss-fe04a352a811------2)
 - [Story of a Failed React Project](https://javascript.plainenglish.io/story-of-a-failed-react-project-f32177479bdf?source=rss-fe04a352a811------2)
 - [Refactor a React Component from 165 Lines to 30 Lines](https://javascript.plainenglish.io/refactor-a-react-component-from-165-lines-to-30-lines-1689b15ebfe0?source=rss-fe04a352a811------2)
 - [How to Add Google Fonts to Your Next.js Website](https://enlear.academy/how-to-add-google-fonts-to-your-next-js-website-e62272a0ff57?source=rss-fe04a352a811------2)
-- [Create Your First AWS CDK App to Understand its Power](https://medium.com/geekculture/create-your-first-aws-cdk-app-to-understand-its-power-ba2f0501cfdc?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
