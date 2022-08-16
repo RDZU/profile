@@ -59,7 +59,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Story of a 2700-Line React Component](https://javascript.plainenglish.io/story-of-a-2700-line-react-component-2f006392a0f9?source=rss-fe04a352a811------2)
+- [Story of a 2,700-Line React Component](https://javascript.plainenglish.io/story-of-a-2700-line-react-component-2f006392a0f9?source=rss-fe04a352a811------2)
 - [Node.js Logging for Professionals](https://javascript.plainenglish.io/node-js-logging-for-professionals-6be07c003e7f?source=rss-fe04a352a811------2)
 - [How to Handle Multiple Environments in NodeJS](https://blog.devgenius.io/how-to-handle-multiple-environments-in-nodejs-7391d2db2abe?source=rss-fe04a352a811------2)
 - [Error Handling in Node.js Like a Pro](https://javascript.plainenglish.io/error-handling-in-node-js-like-a-pro-ed210baa0600?source=rss-fe04a352a811------2)
