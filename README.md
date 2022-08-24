@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Should You Use Redux in Next.js?](https://javascript.plainenglish.io/should-you-use-redux-in-next-js-5e57201c34da?source=rss-fe04a352a811------2)
 - [Use Docker with NodeJS Projects Like a Pro!](https://levelup.gitconnected.com/use-docker-with-nodejs-projects-like-a-pro-a9e7504e1308?source=rss-fe04a352a811------2)
 - [How to Animate the Page Transition in Next.js](https://javascript.plainenglish.io/how-to-animate-the-page-transition-in-next-js-68c7b888dce3?source=rss-fe04a352a811------2)
 - [Story of a 2,700-Line React Component](https://javascript.plainenglish.io/story-of-a-2700-line-react-component-2f006392a0f9?source=rss-fe04a352a811------2)
 - [Node.js Logging for Professionals](https://javascript.plainenglish.io/node-js-logging-for-professionals-6be07c003e7f?source=rss-fe04a352a811------2)
-- [How to Handle Multiple Environments in NodeJS](https://blog.devgenius.io/how-to-handle-multiple-environments-in-nodejs-7391d2db2abe?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
