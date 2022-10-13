@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you Refactor a 2,700-Line React Component?](https://levelup.gitconnected.com/how-do-you-refactor-a-2-700-line-react-component-57bc74991225?source=rss-fe04a352a811------2)
 - [Kubernetes Deployment with NodeJS Made Easy](https://levelup.gitconnected.com/kubernetes-deployment-with-nodejs-made-easy-eaeec32b62e3?source=rss-fe04a352a811------2)
 - [Node.js + Database with Docker for Local Development](https://javascript.plainenglish.io/node-js-database-with-docker-for-local-development-285212c5162f?source=rss-fe04a352a811------2)
 - [Should You Use Redux in Next.js?](https://javascript.plainenglish.io/should-you-use-redux-in-next-js-5e57201c34da?source=rss-fe04a352a811------2)
 - [Use Docker with NodeJS Projects Like a Pro!](https://levelup.gitconnected.com/use-docker-with-nodejs-projects-like-a-pro-a9e7504e1308?source=rss-fe04a352a811------2)
-- [How to Animate the Page Transition in Next.js](https://javascript.plainenglish.io/how-to-animate-the-page-transition-in-next-js-68c7b888dce3?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
