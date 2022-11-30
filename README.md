@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [My Candidate Used Java for the Coding Interview and Failed Because of It](https://levelup.gitconnected.com/my-candidate-used-java-for-the-coding-interview-and-failed-because-of-it-668c48ee2cb8?source=rss-fe04a352a811------2)
 - [Test API from Your Mobile Phone](https://levelup.gitconnected.com/test-api-from-your-mobile-phone-c4a20cc79d0c?source=rss-fe04a352a811------2)
 - [You are Wrong. Frameworks Do Matter in Tech Jobs.](https://levelup.gitconnected.com/you-are-wrong-frameworks-do-matter-in-tech-jobs-e27a5184ad3?source=rss-fe04a352a811------2)
 - [How to Create a Stripe Subscription with React and Node.js](https://javascript.plainenglish.io/how-to-create-a-stripe-subscription-with-react-and-node-js-b7c5e5e24967?source=rss-fe04a352a811------2)
 - [Lambda Integration vs. Lambda Proxy Integration with API Gateway](https://levelup.gitconnected.com/lambda-integration-vs-lambda-proxy-integration-with-api-gateway-b57d31b4a02d?source=rss-fe04a352a811------2)
-- [How to Sanitize Data in React](https://javascript.plainenglish.io/how-to-sanitize-data-in-react-b5111e227978?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
