@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Validate Incoming Requests in Node.js like a Pro](https://javascript.plainenglish.io/validate-incoming-requests-in-node-js-like-a-pro-c69f2494cf18?source=rss-fe04a352a811------2)
 - [AWS Lambda Limitations in Real-Life Applications](https://medium.com/geekculture/aws-lambda-limitations-in-real-life-applications-3db7b00b8796?source=rss-fe04a352a811------2)
 - [How to Get Stripe Subscription Status Using User Email Address](https://blog.devgenius.io/how-to-get-stripe-subscription-status-using-user-email-address-61f1c5e44bd0?source=rss-fe04a352a811------2)
 - [Don&#39;t use Java for Coding Interviews.](https://levelup.gitconnected.com/my-candidate-used-java-for-the-coding-interview-and-failed-because-of-it-668c48ee2cb8?source=rss-fe04a352a811------2)
 - [Test API from Your Mobile Phone](https://levelup.gitconnected.com/test-api-from-your-mobile-phone-c4a20cc79d0c?source=rss-fe04a352a811------2)
-- [You are Wrong. Frameworks Do Matter in Tech Jobs.](https://levelup.gitconnected.com/you-are-wrong-frameworks-do-matter-in-tech-jobs-e27a5184ad3?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
