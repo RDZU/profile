@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Authentication for a Node. Server](https://javascript.plainenglish.io/google-authentication-for-a-node-server-746bdb60ae8b?source=rss-fe04a352a811------2)
 - [A Comprehensive Guide to NodeJS Security Best Practices](https://javascript.plainenglish.io/a-comprehensive-guide-to-nodejs-security-best-practices-c852a100e81?source=rss-fe04a352a811------2)
 - [Validate Incoming Requests in Node.js like a Pro](https://javascript.plainenglish.io/validate-incoming-requests-in-node-js-like-a-pro-c69f2494cf18?source=rss-fe04a352a811------2)
 - [AWS Lambda Limitations in Real-Life Applications](https://medium.com/geekculture/aws-lambda-limitations-in-real-life-applications-3db7b00b8796?source=rss-fe04a352a811------2)
 - [How to Get Stripe Subscription Status Using User Email Address](https://blog.devgenius.io/how-to-get-stripe-subscription-status-using-user-email-address-61f1c5e44bd0?source=rss-fe04a352a811------2)
-- [Don&#39;t use Java for Coding Interviews.](https://levelup.gitconnected.com/my-candidate-used-java-for-the-coding-interview-and-failed-because-of-it-668c48ee2cb8?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
