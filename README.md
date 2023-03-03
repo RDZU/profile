@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up Styled Components in Next.js](https://javascript.plainenglish.io/how-to-set-up-styled-components-in-next-js-e76774f1690f?source=rss-fe04a352a811------2)
 - [Google Authentication for a Node. Server](https://javascript.plainenglish.io/google-authentication-for-a-node-server-746bdb60ae8b?source=rss-fe04a352a811------2)
 - [A Comprehensive Guide to NodeJS Security Best Practices](https://javascript.plainenglish.io/a-comprehensive-guide-to-nodejs-security-best-practices-c852a100e81?source=rss-fe04a352a811------2)
 - [Validate Incoming Requests in Node.js like a Pro](https://javascript.plainenglish.io/validate-incoming-requests-in-node-js-like-a-pro-c69f2494cf18?source=rss-fe04a352a811------2)
 - [AWS Lambda Limitations in Real-Life Applications](https://medium.com/geekculture/aws-lambda-limitations-in-real-life-applications-3db7b00b8796?source=rss-fe04a352a811------2)
-- [How to Get Stripe Subscription Status Using User Email Address](https://blog.devgenius.io/how-to-get-stripe-subscription-status-using-user-email-address-61f1c5e44bd0?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
