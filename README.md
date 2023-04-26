@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Aws Lambda that Reacts to S3 File Upload](https://levelup.gitconnected.com/aws-lambda-that-reacts-to-s3-file-upload-4d16b08fede1?source=rss-fe04a352a811------2)
 - [Advanced Testing Setup for an Enterprise React Project](https://javascript.plainenglish.io/advanced-testing-setup-for-an-enterprise-react-project-a182cc74c749?source=rss-fe04a352a811------2)
 - [Surviving the Documentation Jungle](https://levelup.gitconnected.com/surviving-the-documentation-jungle-fd015e393ad?source=rss-fe04a352a811------2)
 - [3D Graphics in React with ThreeJS](https://javascript.plainenglish.io/3d-graphics-in-react-with-threejs-61cbd3296a27?source=rss-fe04a352a811------2)
 - [Step into the Fascinating world of WebSockets with Socket.io](https://levelup.gitconnected.com/step-into-the-fascinating-world-of-websockets-with-socket-io-a39561e8e08e?source=rss-fe04a352a811------2)
-- [End-to-end testing with ReactJS and Puppeteer](https://levelup.gitconnected.com/end-to-end-testing-with-reactjs-and-puppeteer-730b8877115d?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
