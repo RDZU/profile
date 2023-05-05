@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cognito Authentication With Node.js Without Amplify](https://aws.plainenglish.io/aws-cognito-authentication-with-node-js-without-amplify-a2698df08a61?source=rss-fe04a352a811------2)
 - [11 Ridiculous NPM Packages I Wish Didn’t Exist](https://javascript.plainenglish.io/11-ridiculous-npm-packages-i-wish-didnt-exist-b7eac19ce2b0?source=rss-fe04a352a811------2)
 - [Learning Solidity as a Javascript Developer](https://levelup.gitconnected.com/learning-solidity-as-a-javascript-developer-7feb1d640994?source=rss-fe04a352a811------2)
 - [Aws Lambda that Reacts to S3 File Upload](https://levelup.gitconnected.com/aws-lambda-that-reacts-to-s3-file-upload-4d16b08fede1?source=rss-fe04a352a811------2)
 - [Advanced Testing Setup for an Enterprise React Project](https://javascript.plainenglish.io/advanced-testing-setup-for-an-enterprise-react-project-a182cc74c749?source=rss-fe04a352a811------2)
-- [Surviving the Documentation Jungle](https://levelup.gitconnected.com/surviving-the-documentation-jungle-fd015e393ad?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
