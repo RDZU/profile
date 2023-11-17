@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 My name is Randolph David, I am a Systems Engineer with +2 years specializing in Full-Stack Web development. 
+👨‍💻 My name is Randolph David, I am a Systems Engineer with +3 years specializing in Full-Stack Web development. 
 
 🧑‍🎓 I consider myself as a professional who likes to learn about new technology and improve his skills every day. I always aim to use best practices with an emphasis on creating beautiful interfaces that are easy to use.
 
