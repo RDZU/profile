@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Scraping Amazon Product Reviews](https://levelup.gitconnected.com/scraping-amazon-product-reviews-e0276d924448?source=rss-fe04a352a811------2)
 - [Quitting During Layoffs was a Terrible Idea](https://levelup.gitconnected.com/quitting-during-layoffs-was-a-terrible-idea-8ab6334626e9?source=rss-fe04a352a811------2)
 - [Great SEO-Optimized Web Application](https://levelup.gitconnected.com/great-seo-optimized-web-application-009f696a293c?source=rss-fe04a352a811------2)
 - [All about Postman Collection](https://levelup.gitconnected.com/all-about-postman-collection-12f9dfc0c7fe?source=rss-fe04a352a811------2)
 - [Awesome Terminal Applications](https://levelup.gitconnected.com/awesome-terminal-applications-e4a06022dffa?source=rss-fe04a352a811------2)
-- [React useState Hook from Scratch](https://javascript.plainenglish.io/react-usestate-hook-from-scratch-eaa02e3828ee?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
