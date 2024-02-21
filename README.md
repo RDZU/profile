@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [A Well-Architected FastAPI Boilerplate](https://levelup.gitconnected.com/a-well-architected-fastapi-boilerplate-38c8bdd0138e?source=rss-fe04a352a811------2)
 - [Using n8n with Docker Compose](https://56faisal.medium.com/using-n8n-with-docker-compose-e488f7a634b2?source=rss-fe04a352a811------2)
 - [Scraping Amazon Product Reviews](https://levelup.gitconnected.com/scraping-amazon-product-reviews-e0276d924448?source=rss-fe04a352a811------2)
 - [Quitting During Layoffs was a Terrible Idea](https://levelup.gitconnected.com/quitting-during-layoffs-was-a-terrible-idea-8ab6334626e9?source=rss-fe04a352a811------2)
 - [Great SEO-Optimized Web Application](https://levelup.gitconnected.com/great-seo-optimized-web-application-009f696a293c?source=rss-fe04a352a811------2)
-- [All about Postman Collection](https://levelup.gitconnected.com/all-about-postman-collection-12f9dfc0c7fe?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
