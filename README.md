@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Techniques to Optimize a NextJS Website &lpar;200% boost&rpar;](https://levelup.gitconnected.com/9-techniques-to-optimize-a-nextjs-website-200-boost-294a3244f6b1?source=rss-fe04a352a811------2)
 - [Using Digital Ocean Spaces as Strapi Storage](https://levelup.gitconnected.com/using-digital-ocean-spaces-as-strapi-storage-bb8c0e0e2e5d?source=rss-fe04a352a811------2)
 - [A Well-Architected FastAPI Boilerplate](https://levelup.gitconnected.com/a-well-architected-fastapi-boilerplate-38c8bdd0138e?source=rss-fe04a352a811------2)
 - [Using n8n with Docker Compose](https://56faisal.medium.com/using-n8n-with-docker-compose-e488f7a634b2?source=rss-fe04a352a811------2)
 - [Scraping Amazon Product Reviews](https://levelup.gitconnected.com/scraping-amazon-product-reviews-e0276d924448?source=rss-fe04a352a811------2)
-- [Quitting During Layoffs was a Terrible Idea](https://levelup.gitconnected.com/quitting-during-layoffs-was-a-terrible-idea-8ab6334626e9?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
