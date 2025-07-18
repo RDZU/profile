@@ -59,9 +59,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [I was FIRED because of a Medium article](https://levelup.gitconnected.com/i-was-fired-because-of-a-medium-article-3385ce7670b6?source=rss-fe04a352a811------2)
 - [Setup Mixpanel Analytics in a NextJS Application](https://javascript.plainenglish.io/setup-mixpanel-analytics-in-a-nextjs-application-1363528299fc?source=rss-fe04a352a811------2)
 - [NextJS Internationalization with Google Translator](https://javascript.plainenglish.io/nextjs-internationalization-with-google-translator-e18465bc5905?source=rss-fe04a352a811------2)
 - [9 Techniques to Optimize a NextJS Website &lpar;200% boost&rpar;](https://levelup.gitconnected.com/9-techniques-to-optimize-a-nextjs-website-200-boost-294a3244f6b1?source=rss-fe04a352a811------2)
 - [Using Digital Ocean Spaces as Strapi Storage](https://levelup.gitconnected.com/using-digital-ocean-spaces-as-strapi-storage-bb8c0e0e2e5d?source=rss-fe04a352a811------2)
+- [A Well-Architected FastAPI Boilerplate](https://levelup.gitconnected.com/a-well-architected-fastapi-boilerplate-38c8bdd0138e?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
